@@ -1,6 +1,5 @@
 codespell
 =========
-
 Fix common misspellings in text files. It's designed primarily for checking
 misspelled words in source code (backslash escapes are skipped), but it can be used with other files as well.
 It does not check for word membership in a complete dictionary, but instead
